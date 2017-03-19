@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v4.widget.Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/space1" />
+    <TextView
+        android:text="Herşey Tamam ! Uygulamayı Tekrar Açtığında Bildirimlerin gelmeye Başlayacak "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1" />
+    <TextView
+        android:text="Güncellemelerde Gelecek Özellikler ; 1-) Sınava Geri Sayım 2-) Bildirim Alma Zamanını Ve Sıklığını Ayarlama 3-) Bildirim Ekleme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+</LinearLayout>
